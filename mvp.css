@@ -93,7 +93,7 @@ section {
 
 section img,
 article img {
-    width: 750px;
+    max-width: 100%;
 }
 
 section pre {
@@ -353,7 +353,7 @@ figure {
 }
 
 figure img {
-    max-width: 75%;
+    width: 750px;
     display: block;
     margin: auto;
 }

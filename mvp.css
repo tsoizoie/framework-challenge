@@ -93,7 +93,7 @@ section {
 
 section img,
 article img {
-    max-width: 100%;
+    width: 750px;
 }
 
 section pre {
